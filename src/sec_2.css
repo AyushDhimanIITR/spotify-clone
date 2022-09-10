@@ -1,0 +1,51 @@
+.section-2{
+    margin: 0 40px;
+    padding: 75px 15px;
+    font-family: Helvetica,Arial,sans-serif;
+}
+
+.section-2 >h2{
+    font-size: 40px;
+    line-height: 46px;
+    text-align: center;
+    margin-bottom: 72px;
+    font-weight: 700;
+}
+
+.list{
+    display: flex;
+    justify-content: center;
+}
+
+
+.list >li{
+    list-style: none;
+    text-decoration: dashed;
+    display: block;
+    width: 300px;   
+}
+
+.list >li>img{
+    display: block;
+    width: 142px;
+    height: 142px;
+    margin: 0 40px 30px 40px ;
+}
+
+.text-head{
+    font-weight: 600 !important;
+    line-height: 1.3em !important;
+    font-size: 21px !important;
+    text-align: center;
+    margin-bottom: 10px !important;
+    letter-spacing: normal !important;
+}
+
+.text >p{
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+    width: 85%;
+    font-weight:400;
+}
+

@@ -1,0 +1,23 @@
+.sec-3{
+    text-align: center;
+    background: linear-gradient(rgb(176, 35, 194) 15%, rgb(96, 11, 231));
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+}
+
+.top-line{
+    padding-top: 190px;
+    font-size: 48px;
+    color: #fff;
+    letter-spacing: -0.02em;
+    line-height: 1.2;
+    font-weight: 700;
+}
+
+.bot-line{
+    color: #fff;
+    font-size: 48px;
+    line-height: 1.2;
+    font-weight: 700;
+    padding-bottom: 190px;
+    letter-spacing: -0.02em;
+}
